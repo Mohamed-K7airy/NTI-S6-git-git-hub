@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-def parm(lr = 0.1):
-=======
-def parm(lr = 0.001):
->>>>>>> v2
+def parm(lr = 0.00001):
     print(lr)
 print("hello!")
