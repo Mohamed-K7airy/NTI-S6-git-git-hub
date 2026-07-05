@@ -1,3 +1,3 @@
-def parm(lr = 0.001):
+def parm(lr = 0.01):
     print(lr)
 print("hello!")
